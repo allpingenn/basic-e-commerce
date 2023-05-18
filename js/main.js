@@ -1,6 +1,6 @@
 //! Local Data
 async function getData() {
-  const datas = await fetch("data.json");
+  const datas = await fetch("../js/data.json");
 
   const data = await datas.json();
 
