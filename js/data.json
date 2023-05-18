@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "T-Shirt",
+        "price": 56,
+        "img": "../img/urun1.png"
+    },
+    {
+        "id": 2,
+        "name": "White T-Shirt",
+        "price": 90,
+        "img": "../img/urun2.png"
+    },
+    {
+        "id": 3,
+        "name": "Black T-Shirt",
+        "price": 46,
+        "img": "../img/urun3png.png"
+    },
+    {
+        "id": 4,
+        "name": "White Men T-Shirt",
+        "price": 70,
+        "img": "../img/urun4.png"
+    },
+    {
+        "id": 5,
+        "name": "Woman Dress",
+        "price": 85,
+        "img": "../img/urun5.png"
+    },
+    {
+        "id": 6,
+        "name": "Jean",
+        "price": 110,
+        "img": "../img/urun6.png"
+    },
+    {
+        "id": 7,
+        "name": "Kids Pajamas",
+        "price": 140,
+        "img": "../img/urun7.png"
+    },
+    {
+        "id": 8,
+        "name": "Women Bag",
+        "price": 240,
+        "img": "../img/urun8.png"
+    },
+    {
+        "id": 9,
+        "name": "Women Shoes",
+        "price": 170,
+        "img": "../img/urun9.png"
+    }
+]
